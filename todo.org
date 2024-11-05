@@ -1,0 +1,11 @@
+* design
+** DONE set up the text colors and bg colors
+** DONE the main layout
+** TODO appointment button design
+** TODO poster section
+** TODO card design for services part
+** TODO card design for pictures
+** TODO card design for carousel
+** DONE card design for 1st appt
+** TODO carousel js + animations
+** TODO animations
